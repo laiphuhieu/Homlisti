@@ -1,0 +1,25 @@
+/* Reset css */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: sans-serif;
+  overflow-x: hidden;
+}
+
+body {
+  scroll-behavior: smooth;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #656e7e;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  overflow: hidden;
+}
